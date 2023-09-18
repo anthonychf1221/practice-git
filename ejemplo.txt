@@ -1,8 +1,8 @@
-1.- comentariss
-1.- comentariss
-1.- comentariss
-1.- comentariss
-1.- comentariss
+1.- comentarios
+1.- comentarios
+1.- comentarios
+1.- comentarios
+1.- comentarios
 
 
 What is Lorem Ipsum?
@@ -14,4 +14,4 @@ printer took a galley of type and scrambled it
 to make a type specimen book. 
 
 
-Perú es un país de Sudamerica.
+Perú es un país de Sudamérica.
